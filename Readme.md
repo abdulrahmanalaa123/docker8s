@@ -1,2 +1,3 @@
-# Simulating and configuring a k8s cluster on docker
+# docker8s
+- Simulating and configuring a k8s cluster on docker
 
